@@ -1,6 +1,6 @@
 - 👋 Hi, I'm a Data Analyst from Paris
 
-- This is my portfolio of data analyst projects completed for academic, self learning, and hobby purposes. 
+- 💼 This is my portfolio of data analyst projects completed for academic, self learning, and hobby purposes. 
 
 - 🖥️ Tools & Programming languages :
   - Excel
